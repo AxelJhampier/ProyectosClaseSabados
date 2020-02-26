@@ -1,2 +1,12 @@
+
+# Android Studio
+.idea
+
 # Ignore
-test1/out/production
+test1/out/production/Factorial/AlgoritmoWhile
+out/
+
+test1/out/
+
+# Java class files
+*.class
